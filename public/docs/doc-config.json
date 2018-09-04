@@ -1,0 +1,13 @@
+{
+    "docsPath": "/docs",
+    "pages": [
+        {
+            "title": "sample page 1",
+            "source": "$docsPath/page1.md"
+        },
+        {
+            "title": "sample page 2",
+            "source": "$docsPath/page2.md"
+        }
+    ]
+}
